@@ -96,7 +96,7 @@
             <ul class="sidebar">
               <li>HTML5, PHP, XML, XHTML, CSS3, XML, MySQL</li>
               <li>Proficient in JavaScript and JQuery</li>
-              <li>Bootstrap, Less, Sass, Foundation ZURB, Git, API</li>
+              <li>Bootstrap, Less, Foundation ZURB, Git, API</li>
               <li>Content Management Systems – Joomla (10 yrs), Wordpress (9 yrs)</li>
               <li>Responsive Design, UX Design</li>
               <li>eCommerce Solutions - Volusion and Magento Enterprise</li>
