@@ -100,7 +100,7 @@
               <li>Content Management Systems – Joomla (10 yrs), Wordpress (9 yrs)</li>
               <li>Responsive Design, UX Design</li>
               <li>eCommerce Solutions - Volusion and Magento Enterprise</li>
-              <li>Adobe Photoshop, Adobe Flash, Adobe Illustrator </li>
+              <li>Adobe Photoshop, Flash, Illustrator </li>
               <li>Landing Page Design - Split Testing, Usability Testing</li>
               <li>Search Engine Optimization (SEO) and Search Engine Marketing (SEM) </li>
               <li>Google Adwords, Link Building, and Google A/B Testing </li>
