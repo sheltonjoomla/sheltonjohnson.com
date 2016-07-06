@@ -1,0 +1,82 @@
+<projects>
+
+		<project>
+			<name>Vmotion</name>
+			<date>Vmotions</date>
+			<cms>HTML5</cms>
+			<url></url>
+			<budget>Vmotions</budget>
+					<tags>
+						<tag>HTML5</tag>
+					</tags>
+			<descr></descr>
+			<short_descr></short_descr>
+		</project>
+
+
+		<project>
+			<name>Clarity PACS</name>
+			<date>00-00-0000</date>
+			<cms>HTML</cms>
+			<url>clairtypacs.com</url>
+			<budget></budget>
+			<tags></tags>
+			<descr></descr>
+			<short_descr></short_descr>
+		</project>
+
+
+
+		<project>
+			<name>iCRco.com</name>
+			<date>00-00-0000</date>
+			<cms>Joomla</cms>
+			<url>Vmotions</url>
+			<budget>Vmotions</budget>
+			<tags>Vmotions</tags>
+			<descr></descr>
+			<short_descr></short_descr>
+		</project>
+
+
+
+
+		<project>
+			<name>CoolnSave.com</name>
+			<date>00-00-0000</date>
+			<cms>Joomla</cms>
+			<url>Vmotions</url>
+			<budget>Vmotions</budget>
+			<tags>Vmotions</tags>
+			<descr></descr>
+			<short_descr></short_descr>
+		</project>
+
+
+
+		<project>
+			<name>CertifiedFly.com</name>
+			<date>Vmotions</date>
+			<cms>Joomla</cms>
+			<url>Vmotions</url>
+			<budget>Vmotions</budget>
+			<tags>Vmotions</tags>
+			<descr></descr>
+			<short_descr></short_descr>
+		</project>
+
+
+		<project>
+			<name>SheltonJohnson.com</name>
+			<date></date>
+			<cms>HTML5</cms>
+			<url>SheltonJohnson.com</url>
+			<budget>Vmotions</budget>
+			<tags>Vmotions</tags>
+			<descr></descr>
+			<short_descr></short_descr>
+		</project>
+
+
+
+</projects>
