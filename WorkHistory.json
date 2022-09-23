@@ -1,17 +1,25 @@
-company 
-company logo 
-id 
-start date 
-end Date
-skills 
-stack used 
-company website 
-website built 
-  skills used 
-manager 
-  linkin profile 
-  email
-workflow 
-description 
+[
+  {"AMMO": {
+  "name":"Ammunition",
+  "url":"Ammunition",
+  "workType":"Full ",
+  "manager":"Name Here",
+  "companyLogo":"/logo.png",
+  
+  "startDate":"Ammunition",
+  "endDate":"Ammunition",
+  "skillsUsed": ["SASS", "Drupal", "WordPress"],
+  "websitesCreated": ["SASS", "Drupal", "WordPress"]
+}} , 
+{"MQ": {
+  "name":"Ammunition",
+  "url":"Ammunition",
+  "workType":"Full ",  
+  "startDate":"Ammunition",
+  "endDate":"Ammunition",
+  "skillsUsed": ["SASS", "Drupal", "WordPress"],
+  "websitesCreated": ["SASS", "Drupal", "WordPress"]
+}} 
 
 
+]
